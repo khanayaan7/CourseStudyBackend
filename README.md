@@ -1,3 +1,5 @@
+[View Live Demo](https://66cf3ded45ec1d849cee863d--bright-zabaione-3f70d4.netlify.app/)
+
 # CourseStudyBackEnd
 [FrontEnd Repository Link](https://github.com/khanayaan7/CourseStudyFrontEnd)
 # CourseStudy Ed-Tech Platform
@@ -21,9 +23,6 @@ The CourseStudy ed-tech platform follows a client-server architecture with the f
 
 
 ---
-
-
-[View Live Demo](https://66cf3ded45ec1d849cee863d--bright-zabaione-3f70d4.netlify.app/)
 
 ---
 
