@@ -1,4 +1,5 @@
 # CourseStudyBackEnd
+[FrontEnd Repository Link](https://github.com/khanayaan7/CourseStudyFrontEnd)
 # CourseStudy Ed-Tech Platform
 
 CourseStudy is a versatile and intuitive ed-tech platform that enables users to create, consume, and rate educational content. It provides a seamless and interactive learning experience for students while offering a platform for instructors to showcase their expertise and connect with learners worldwide. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
@@ -22,7 +23,7 @@ The CourseStudy ed-tech platform follows a client-server architecture with the f
 ---
 
 
-[View Live Demo]([https://google.com](https://66cf3ded45ec1d849cee863d--bright-zabaione-3f70d4.netlify.app/))
+[View Live Demo](https://66cf3ded45ec1d849cee863d--bright-zabaione-3f70d4.netlify.app/)
 
 ---
 
